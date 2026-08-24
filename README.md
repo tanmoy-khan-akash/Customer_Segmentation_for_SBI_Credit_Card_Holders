@@ -1,4 +1,10 @@
-# Customer_Segmentation_for_SBI_Credit_Card_Holders 
+<div align="center">
+	<h1><a>Customer Segmentation for SBI Credit Card Holders</a></h1>
+</div>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ### Objective:
 
@@ -31,10 +37,16 @@ Following is the Data Dictionary for the customer's credit card dataset:
 * MINIMUM_PAYMENTS: Minimum number of payments made by the user
 * PRCFULLPAYMENT: Percentage of full payment paid by user
 * TENURE: Tenure of the credit card service for the user
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Customer Segmentation
-#### Customer segmentation using clustering models to give product and service recommendations
+#### Customer segmentation using clustering models to give product and service recommendations 
+
+✅ Follow this link and spread the word around the world.
+
+#### Link: 🔗 https://github.com/tanmoy-khan-akash/Customer_Segmentation_for_SBI_Credit_Card_Holders
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 These resources are perfect for both beginners and advanced learners.
